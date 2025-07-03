@@ -1,0 +1,8 @@
+[
+{ "x": 25, "y": 52, "w": 235, "h": 105, "name": "spaceships-drawn-01-a" },
+{ "x": 11, "y": 186, "w": 224, "h": 107, "name": "spaceships-drawn-01-b" },
+{ "x": 10, "y": 349, "w": 233, "h": 128, "name": "spaceships-drawn-01-c" },
+{ "x": 265, "y": 42, "w": 207, "h": 120, "name": "spaceships-drawn-01-d" },
+{ "x": 274, "y": 194, "w": 214, "h": 124, "name": "spaceships-drawn-01-e" },
+{ "x": 275, "y": 348, "w": 221, "h": 130, "name": "spaceships-drawn-01-f" }
+]
